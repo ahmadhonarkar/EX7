@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: iran;
+	src: url("IRANYekanMedium.ttf");
+	font-family: nazanin;
+	src: url("BNazanin.ttf");
+}
+body{
+	margin: 0px 0px 0px 0px;
+	background-color: #EEEEF0
+}
+.h1-1{
+	background-color: #EEEEF0
+	width: 99.7%;
+	height: 120px;
+	border: 2px solid #EE1C25;
+}
+.hederpic{
+	width: auto 10%;
+	height: 120px;
+	position: absolute;
+}
+h1{
+	color: #244185;
+	width: auto ;
+	font-family: iran;
+	direction: rtl;
+	position: absolute;
+	right: 500px;
+		
+}
+
+.topnav {
+  background-color: #EEEEF0
+  overflow: hidden;
+  float: right;
+  direction: rtl;
+  border: 2px solid #EE1C25;
+  margin: 0px auto;
+}
+
+.topnav a {
+  float: inherit;
+  color: #244185;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+
+.topnav a:hover {
+  background-color: #9E9285;
+  color: black;
+  border: 2px solid #EE1C25;
+  margin: 0px auto;
+	
+}
+
+.aboutof{
+	width: 70%;
+	height: 350px;
+	position: relative;
+	top: 300px;
+	left: 30px;
+}
+.brandabout{
+	width: 20%;
+	height: auto;
+	position: absolute;
+	top: 90px;
+	right: 2px;
+	
+}
+h2{
+	font-family: iran;
+	color: #244185;
+	direction: rtl;
+	position: inherit;
+	right: 400px;
+	
+}
+.aboutof p{
+	font-family: "B Nazanin";
+	font-size: 20px;
+	color: #244185;
+	text-align: right;
+	position: inherit;
+	right: 200px;
+	height: 10px;
+}
+.tablecon{
+	width: 70%;
+	text-align: right;
+	height: 100px;
+	font-family: "B Nazanin";
+	font-size: 20px;
+	color: #244185;
+	
+}
+.linkpic{
+	width: 100%;
+	height: 800px;
+	
+}
+.linkpic1{
+	width: 30%;
+	height: auto;
+	position: absolute;
+	right: 100px;
+	top: 250px;
+	border: 2px solid #EE1C25;
+	
+}
+.linkpic1:hover {
+  opacity: 0.3;
+}
+.linkpic2:hover {
+  opacity: 0.3;
+}
+.linkpic3:hover {
+  opacity: 0.3;
+}
+.linkpic4:hover {
+  opacity: 0.3;
+}
+.linkpic2{
+	width: 30%;
+	height: auto;
+	position: absolute;
+	left: 100px;
+	top: 250px;
+	border: 2px solid #EE1C25;
+	
+}
+.linkpic3{
+	width: 30%;
+	height: auto;
+	position: absolute;
+	right: 100px;
+	top: 700px;
+	border: 2px solid #EE1C25;
+	
+}
+.linkpic4{
+	width: 30%;
+	height: auto;
+	position: absolute;
+	left: 100px;
+	top: 700px;
+	border: 2px solid #EE1C25;
+	
+}
+.h3-1{
+	font-family: IRANYekan;
+	font-size: 30px;
+	color: #244185;
+	direction: rtl;
+	position: absolute;
+	right: 220px;
+	top: 530px;
+}
+.h3-2{
+	font-family: IRANYekan;
+	font-size: 30px;
+	color: #244185;
+	direction: rtl;
+	position: absolute;
+	left: 200px;
+	top: 530px;
+}
+.h3-3{
+	font-family: IRANYekan;
+	font-size: 30px;
+	color: #244185;
+	direction: rtl;
+	position: absolute;
+	right: 170px;
+	top: 980px;
+}
+.h3-4{
+	font-family: IRANYekan;
+	font-size: 30px;
+	color: #244185;
+	direction: rtl;
+	position: absolute;
+	left: 170px;
+	top: 980px;
+}
+.tablecontactsdiv{
+	width: 100%;
+	height: 2500px;
+	position: relative;
+	top: 200px;
+	
+	
+}
+.tablecontactstb{
+	border: 2px solid #EE1C25;
+	position: inherit;
+	width: 100%;
+	height: auto100px;
+	direction: rtl;
+	text-align: right;
+	font-family: "B Nazanin";
+	font-size: 24px;
+	color: #244185;
+	direction: rtl;
+	
+}
+
+.footerpic{
+	width: 100%;
+	position: static;
+	margin: 0px 0px 0px 0px;
+
+}
